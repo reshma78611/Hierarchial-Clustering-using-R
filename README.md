@@ -28,12 +28,12 @@ In this repository we will discuss mainly about *Hierarchial Clustering*
     
 Summarization of entire cluster process is done using **Dendogram**
 
-**Advantages :**\
-1. Best suitable for smaller datasets.\
-2. Dendogram gives best understanding of clustered data.\
+**Advantages :**
+1. Best suitable for smaller datasets.
+2. Dendogram gives best understanding of clustered data.
 
-**Diasadvantages :**\
-1. It is slower for large datasets.\
+**Diasadvantages :**
+1. It is slower for large datasets.
     
 
 ## Data used:
