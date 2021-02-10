@@ -15,8 +15,11 @@ In **Clustering** we have :
 3. DBSCAN Clustering
 
 In this repository we will discuss mainly about *Hierarchial Clustering*
+
  This is mainly used for Numerical data, it is also called as bottom-up approach. In this, among all the records two records which are having less Euclidean distance are merged in to one cluster and again this cluster inturn with which it is having less euclidean distance that record is merged with the cluster.
+ 
  Now how to calculate distance between 2 clusters or distance between cluster and record ?
+ 
     For this we have different methods:
     1. Single linkage method : *It will consider minimum distance*
     2. Complete linkage method : *It will consider maximum distance*
@@ -25,12 +28,12 @@ In this repository we will discuss mainly about *Hierarchial Clustering*
     
 Summarization of entire cluster process is done using **Dendogram**
 
-**Advantages :**
-1. Best suitable for smaller datasets.
-2. Dendogram gives best understanding of clustered data.
+**Advantages :**\
+1. Best suitable for smaller datasets.\
+2. Dendogram gives best understanding of clustered data.\
 
-**Diasadvantages :**
-1. It is slower for large datasets.
+**Diasadvantages :**\
+1. It is slower for large datasets.\
     
 
 ## Data used:
